@@ -1,0 +1,1 @@
+const button = documentElementById("shion_id")
